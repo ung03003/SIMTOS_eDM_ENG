@@ -43,12 +43,11 @@
 														</tr>
 														<tr>
 															<td><img src="https://github.com/ung03003/SIMTOS_eDM_ENG/blob/main/simtos_edm_eng_03.jpg?raw=true"
-																	width="730" height="auto" style="display:block"></td>
+																	width="730" height="auto" usemap="#Map" style="display:block" border="0"></td>
 														</tr>
 							
 														<tr>
-															<td><a href="https://simtos.org/counsel_session/buyer_eng_default/marketing01.asp"><img src="https://github.com/ung03003/SIMTOS_eDM_ENG/blob/main/simtos_edm_eng_04.jpg?raw=true"
-																	width="730" height="auto" style="display:block"></td>
+															<td><img src="https://github.com/ung03003/SIMTOS_eDM_ENG/blob/main/simtos_edm_eng_04.jpg?raw=true" width="730" height="auto" style="display:block"></td>
 														</tr>
 
 													  <tr>
@@ -91,6 +90,11 @@
 			</td>
 		</tr>
 	</table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="67,317,295,377" href="https://simtos.org/counsel_session/buyer_eng_default/marketing01.asp" />
+  <area shape="rect" coords="316,319,663,377" href="https://docs.google.com/forms/d/1bdRvnp_WNeRx4BQM_Vnvc3JXyijXT0ZCkjlaQ4pJrzU/edit" />
+</map>
 </body>
 
 </html>
